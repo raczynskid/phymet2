@@ -1,0 +1,10 @@
+#PHYMET 2 location visualizer
+
+    python dependencies:
+        pip install pandas
+        pip install geopy
+        pip install geotext
+        pip instll requests
+
+data souced from: <br>
+http://phymet2.biotech.uni.wroc.pl/
